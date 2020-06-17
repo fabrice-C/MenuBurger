@@ -1,6 +1,6 @@
-# Formation Simplon - Projet : menu dynamique (Burger Menu)
+# Formation Simplon - Projet :
 
-> Créer un **menu dynamique** en reproduisant le graphisme, le comportement et les animations d'un menu existant sur un site donné.
+> Créer un **menu dynamique** ou "***Burger Menu***" en reproduisant le graphisme, le comportement et les animations d'un menu existant sur un site donné.
 
 ### Livrables :
     Un lien vers le répertoire Git (public) contenant :
