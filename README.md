@@ -23,3 +23,6 @@ en place sur le site FERRO.
 Au fait... votre client, s'appelle Simplon... et sur son site il n'y aura pas de bande son. 
 À vous de faire les adaptations nécessaires.
 
+### Remarque : 
+    Aucune documentation indiquant comment installer le menu dans une page html existante 
+    n'a été réalisée dans délai demandé.
